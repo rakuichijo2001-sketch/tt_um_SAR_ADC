@@ -1,3 +1,8 @@
+# Comparator source: Comparator_Scientific_Characterization.xlsx, PVT_All_Data.
+# TT, VDD=1.0 V, 27 C: decision=3.78 ns, reset=4.29 ns, power=108.841 uW.
+# Comparator SF/SS at 0.95 V and 0 C have incomplete decision-time results.
+# LDO Load Regulation: 0 to 10 mA, TT 27 C, delta Vout=5.616535 mV.
+# The workbook's Vin-Vout columns describe headroom, not a measured dropout limit.
 # Characterization source: SKY130_LDO_Ver3_PRE.xlsx, pre-layout simulation.
 # LDO nominal output approximately 1.0 V; these are not silicon guarantees.
 # Load Regulation, TT 27 C: Vout=1.00392632 V at 0 A;
